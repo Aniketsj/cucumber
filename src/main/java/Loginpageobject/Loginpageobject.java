@@ -16,6 +16,7 @@ public class Loginpageobject {
 	
 	public String url(){
 		 String url="https://stagesite5-identity.medrio.com/identity/login?signin=e515505840cbf62c00e7ec86c4a47c37";
+		 System.out.println(url);
 		 return url;
 	}
 	
